@@ -1,8 +1,10 @@
 <%@ include file="/init.jsp"%>
-<div ng-app='myApp' ng-controller='myController'>
+<div ng-controller='myController'>
 	<h3><liferay-ui:message key="pais.web.portlet.caption"/></h3>
 	<hr>
 	<div class="table table-fixed tabla">
+	{{34+34}}
+			
 	   <table class="table table-striped">
 			<thead>
 				<tr>
